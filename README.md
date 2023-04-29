@@ -99,7 +99,7 @@ The farmer has to upload an image to the website from his/her device. Deep
 Learning models are used is to find the disease that occurred and details about
 the disease and its cure are given to the farmer.
 
-![image](https://user-images.githubusercontent.com/75557390/177081458-5da5891f-1ec6-4dc5-bca8-24f9ee10c3bb.png)
+
 
 # Farmer News
 
@@ -115,7 +115,7 @@ from where the news was fetched from.
 
 # Marketplace
 
-![image](https://user-images.githubusercontent.com/75557390/177081596-e8a0ffb5-98c9-4efd-bf38-33626c695798.png)
+
 
 Farmers can directly contact the sellers and hence can save on money and can
 maximize profits.
